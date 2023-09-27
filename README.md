@@ -24,6 +24,9 @@ Due to the large area of the main regions, some of them are subdivided as MC →
 
 Results are given without cuts ('without_cuts') and with an absolute magnitude cut of M<-20.25 (in r-band) which ensures a volume-limited sample up to a redshift of z < 0.5 ('mag_limited').
 
+If you want to access the files, please ask for permission through the link:
+https://drive.google.com/drive/folders/11Glabik6rqY2XqCXZo2cIvjTF9ZF4BNh?usp=drive_link
+
 # About the Adaptive Membership Estimator (AME)
 
 In the following, we present the main steps:
