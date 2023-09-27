@@ -2,7 +2,7 @@
 
 This work introduces galaxy cluster catalogues from the fourth internal data release of the Southern Photometric Local Universe Survey (S-PLUS/iDR4). The catalogue is based on the available photometric data within the redshift range of 0.05 < z < 0.5. It includes five of the six main regions: HYDRA, MC, SPLUS-S, SPLUS-N and STRIPE82. SPLUS-D is intentionally excluded as it focuses primarily on the Milky Way disk. To identify galaxy cluster candidates, we utilize the density-based algorithm PZWav (Gonzalez 2014; Werner et al.2022), which identifies overdensities on fixed physical scales (within 0.5-1.4 Mpc). Comparison with tailored simulations demonstrates that our catalogue is 80% pure and 95% complete for clusters with richness greater than 4. Furthermore, we utilize photometric data to characterize the cluster sample by providing a galaxy membership catalogue, as well as estimates for richness and optical luminosity using our adaptive membership estimator (AME) algorithm.
 
-![splus_meeting2023](https://github.com/liadoubrawa/splus_cluster_catalogues/assets/79430629/369549d6-6af5-4375-aa7b-f8bd780fd0b3)
+![splus_meeting2023](https://github.com/liadoubrawa/splus_cluster_catalogues/assets/79430629/a86e0b4b-3fe9-44f0-b240-f75b5ce40c24)
 
 
 # Output
