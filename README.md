@@ -14,7 +14,7 @@ Here, one can find:
 
   - Due to tiles superpositions we remove close objects (within 10’’)  and  Δr_auto < 1.
 
-- Cluster catalogue ('{area_name}_0.fits'), alongside ID, sky positions [RA,DEC], photometric redshift estimates, SNR, richness, radius, rank (PZWav output) we provide a characteristic radius, Rc, and subproduct examples that can be derived from the galaxies' membership probabilities, such as richness [R_ame], optical luminosity [opt_lum].
+- Cluster catalogue ('{area_name}_0.fits'), alongside ID, sky positions [RA,DEC], photometric redshift estimates, SNR (SNR>2), richness, radius, rank (PZWav output) we provide a characteristic radius, Rc, and subproduct examples that can be derived from the galaxies' membership probabilities, such as richness [R_ame], optical luminosity [opt_lum].
 
 - Galaxy catalogue ('data_{area_name}.fits'), galaxies identified within Rc, with the S-PLUS information: ID, sky positions, zml, r_auto, odds, PROB_GAL, PDF; We add the membership probability for each galaxy to be a cluster member [Prob], the probability of belonging to a nearby substructure [Prob_sub] and the cluster identification number [clusterID].
 
