@@ -16,6 +16,8 @@ Here, one can find:
 
 - Cluster catalogue ('{area_name}_0.fits'), alongside ID, sky positions [RA,DEC], photometric redshift estimates, SNR (SNR>2), richness, radius, rank (PZWav output) we provide a characteristic radius, Rc, and subproduct examples that can be derived from the galaxies' membership probabilities, such as richness [R_ame], optical luminosity [opt_lum].
 
+For a refined sample sample, use *SNR>4*
+
 - Galaxy catalogue ('data_{area_name}.fits'), galaxies identified within Rc, with the S-PLUS information: ID, sky positions, zml, r_auto, odds, PROB_GAL, PDF; We add the membership probability for each galaxy to be a cluster member [Prob], the probability of belonging to a nearby substructure [Prob_sub] and the cluster identification number [clusterID].
 
 - Possible substructure catalogue ('{area_name_0_substructures.fits}'). Sky positions of the substructure (estimated as the weighted mean cartesian value of the galaxies with Prob_sub), mean redshift estimate from the galaxies with Prob_sub, rich (as the sum of Prob_sub), center distance between optical identification and substructure coordinates, and cluster identification: sky positions, photo-z, richness (sum of Prob).
